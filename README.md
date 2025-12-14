@@ -2,7 +2,7 @@ Jak ho použít:
 - # Ulož oba soubory do stejné složky
 
 - Dej scriptu práva ke spuštění: chmod +x todo.sh
-- Spusť: ./todo.sh
+- Spusť : ./todo.sh
 
 Funkce:
 

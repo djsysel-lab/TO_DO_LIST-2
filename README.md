@@ -1,2 +1,16 @@
-# TO_DO_LIST-2
-Stále běžící verze
+Jak ho použít:
+
+-- Ulož script do souboru, např. todo.sh
+Dej mu práva ke spuštění: chmod +x todo.sh
+Spusť: ./todo.sh
+
+Funkce:
+
+✓ Přidávání úkolů
+✓ Zobrazení všech úkolů s čísly
+✓ Označování úkolů jako hotových ([ ] → [✓])
+✓ Mazání jednotlivých úkolů
+✓ Vymazání všech úkolů
+✓ Ukládání do souboru (~/.todo_list.txt), takže úkoly přežijí restart
+
+Script běží v nekonečné smyčce a čeká na tvoje příkazy, dokud nezvolíš možnost "6" pro ukončení.

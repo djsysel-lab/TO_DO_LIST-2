@@ -10,16 +10,16 @@ touch "$TODO_FILE"
 # Funkce pro zobrazení menu
 show_menu() {
     echo ""
-    echo "================================"
+    echo "________________________________"
     echo "      TO-DO LIST MANAGER"
-    echo "================================"
+    echo "________________________________"
     echo "1) Přidat úkol"
     echo "2) Zobrazit všechny úkoly"
     echo "3) Označit úkol jako hotový"
     echo "4) Smazat úkol"
     echo "5) Vymazat všechny úkoly"
-    echo "6) Konec"
-    echo "================================"
+    echo "6) Ukončení"
+    echo "________________________________"
 }
 
 # Funkce pro přidání úkolu

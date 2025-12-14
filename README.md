@@ -1,7 +1,6 @@
 Jak ho použít:
 
-- Ulož script do souboru, např. todo.sh
-- Dej mu práva ke spuštění: chmod +x todo.sh
+- Dej scriptu práva ke spuštění: chmod +x todo.sh
 - Spusť: ./todo.sh
 
 Funkce:

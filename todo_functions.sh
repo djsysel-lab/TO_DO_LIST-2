@@ -2,7 +2,7 @@
 # todo_functions.sh - Soubor s funkcemi pro to-do list
 
 # Soubor pro ukládání úkolů
-TODO_FILE="$HOME/.todo_list.txt"
+TODO_FILE="$HOME/.Seznam_Ukolu.pdf"
 
 # Vytvoření souboru, pokud neexistuje
 touch "$TODO_FILE"
